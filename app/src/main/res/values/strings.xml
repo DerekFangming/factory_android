@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">factory</string>
 
-    <string name="cd_logo">logo</string>
+    <string name="username_cap">USERNAME</string>
+    <string name="login">Login</string>
+    <string name="forget">Forget</string>
+    <string name="register">Register</string>
+    <string name="demo">Demo</string>
+
+    <string name="empty_hint"> </string>
+
+    <string name="img_content_desc">logo</string>
 </resources>
